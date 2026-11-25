@@ -1,0 +1,8 @@
+target/
+bin/
+*.class
+*.war
+*.log
+.idea/
+*.iml
+.DS_Store
