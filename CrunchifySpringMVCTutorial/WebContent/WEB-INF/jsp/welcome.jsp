@@ -8,14 +8,15 @@ body {
 }
 </style>
 </head>
-<body>${message}
+<body>
+	<div style="text-align: center;"><h3>${message}</h3></div>
  
 	<br>
 	<br>
 	<div
 		style="font-family: verdana; padding: 10px; border-radius: 10px; font-size: 12px; text-align: center;">
  
-		Spring MCV Tutorial by <a href="https://crunchify.com">Crunchify</a>.
+		Spring MVC Tutorial by <a href="https://crunchify.com">Crunchify</a>.
 		Click <a href="https://crunchify.com/category/java-tutorials/"
 			target="_blank">here</a> for all Java and <a
 			href='https://crunchify.com/category/spring-mvc/' target='_blank'>here</a>
